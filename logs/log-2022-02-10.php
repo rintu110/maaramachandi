@@ -1,0 +1,44 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2022-02-10 20:46:30 --> 404 Page Not Found: Mysite/js
+ERROR - 2022-02-10 20:46:31 --> 404 Page Not Found: Mysite/js
+ERROR - 2022-02-10 20:46:32 --> 404 Page Not Found: Mysite/js
+ERROR - 2022-02-10 20:46:33 --> 404 Page Not Found: Mysite/js
+ERROR - 2022-02-10 20:46:40 --> 404 Page Not Found: Mysite/js
+ERROR - 2022-02-10 20:46:48 --> 404 Page Not Found: Mysite/js
+ERROR - 2022-02-10 20:46:49 --> 404 Page Not Found: Mysite/js
+ERROR - 2022-02-10 20:46:51 --> 404 Page Not Found: Mysite/js
+ERROR - 2022-02-10 20:46:52 --> 404 Page Not Found: Mysite/js
+ERROR - 2022-02-10 20:46:57 --> 404 Page Not Found: Mysite/js
+ERROR - 2022-02-10 20:46:58 --> 404 Page Not Found: Mysite/js
+ERROR - 2022-02-10 20:47:00 --> 404 Page Not Found: Mysite/js
+ERROR - 2022-02-10 20:47:01 --> 404 Page Not Found: Mysite/js
+ERROR - 2022-02-10 20:47:22 --> 404 Page Not Found: Mysite/js
+ERROR - 2022-02-10 20:47:23 --> 404 Page Not Found: Mysite/js
+ERROR - 2022-02-10 20:47:24 --> 404 Page Not Found: Mysite/js
+ERROR - 2022-02-10 20:47:26 --> 404 Page Not Found: Mysite/js
+ERROR - 2022-02-10 20:47:30 --> 404 Page Not Found: Mysite/js
+ERROR - 2022-02-10 20:47:31 --> 404 Page Not Found: Mysite/js
+ERROR - 2022-02-10 20:47:34 --> 404 Page Not Found: Mysite/js
+ERROR - 2022-02-10 20:47:35 --> 404 Page Not Found: Mysite/js
+ERROR - 2022-02-10 20:47:56 --> 404 Page Not Found: Mysite/js
+ERROR - 2022-02-10 20:47:57 --> 404 Page Not Found: Mysite/js
+ERROR - 2022-02-10 20:47:58 --> 404 Page Not Found: Mysite/js
+ERROR - 2022-02-10 20:47:59 --> 404 Page Not Found: Mysite/js
+ERROR - 2022-02-10 20:48:03 --> 404 Page Not Found: Mysite/js
+ERROR - 2022-02-10 20:48:04 --> 404 Page Not Found: Mysite/js
+ERROR - 2022-02-10 20:48:07 --> 404 Page Not Found: Mysite/js
+ERROR - 2022-02-10 20:48:07 --> 404 Page Not Found: Mysite/js
+ERROR - 2022-02-10 20:48:33 --> 404 Page Not Found: Mysite/js
+ERROR - 2022-02-10 20:48:33 --> 404 Page Not Found: Mysite/js
+ERROR - 2022-02-10 20:48:36 --> 404 Page Not Found: Mysite/js
+ERROR - 2022-02-10 20:48:36 --> 404 Page Not Found: Mysite/js
+ERROR - 2022-02-10 20:48:40 --> 404 Page Not Found: Mysite/js
+ERROR - 2022-02-10 20:48:41 --> 404 Page Not Found: Mysite/js
+ERROR - 2022-02-10 20:48:42 --> 404 Page Not Found: Mysite/js
+ERROR - 2022-02-10 20:48:43 --> 404 Page Not Found: Mysite/js
+ERROR - 2022-02-10 20:51:59 --> 404 Page Not Found: Mysite/js
+ERROR - 2022-02-10 20:51:59 --> 404 Page Not Found: Mysite/js
+ERROR - 2022-02-10 20:52:00 --> 404 Page Not Found: Mysite/js
+ERROR - 2022-02-10 20:52:00 --> 404 Page Not Found: Mysite/js
+ERROR - 2022-02-10 20:59:56 --> Severity: error --> Exception: syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) /home/fabdzufd/maaramachanditemple.com/application/controllers/Page.php 387
